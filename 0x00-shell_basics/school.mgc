@@ -1,2 +1,1 @@
-#!/bin/bash
-!:mine School data
+!:mine School data file -C -m school.mgc
